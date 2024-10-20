@@ -25,6 +25,7 @@ fun FastButton(
     color: Color,
     iconColor: Color,
     @DrawableRes icon: Int,
+    modifier: Modifier = Modifier
 ) {
     Box(
         modifier = Modifier
@@ -33,7 +34,7 @@ fun FastButton(
             .background(color)
             .size(43.dp)
             .padding(10.dp)
-            .wrapContentSize(Alignment.Center),
+            .wrapContentSize(Alignment.Center).then(modifier),
     ) {
         Image(
             painter = rememberAsyncImagePainter(

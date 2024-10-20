@@ -155,17 +155,17 @@ fun HomeView(navController: () -> NavHostController, uiStateCallback: () -> Home
                 .wrapContentHeight()
                 .padding(horizontal = 20.dp)
                 .padding(top = 20.dp, bottom = 10.dp),
-            horizontalArrangement = Arrangement.SpaceBetween,
+            horizontalArrangement = Arrangement.End,
         ) {
             // menu icon
-            FastButton(
-                onClick = {
-
-                },
-                color = Scheme.onPrimary,
-                icon = R.drawable.ic_menu,
-                iconColor = Scheme.primary
-            )
+//            FastButton(
+//                onClick = {
+//
+//                },
+//                color = Scheme.onPrimary,
+//                icon = R.drawable.ic_menu,
+//                iconColor = Scheme.primary
+//            )
             // search icon
             FastButton(
                 onClick = {
@@ -173,7 +173,7 @@ fun HomeView(navController: () -> NavHostController, uiStateCallback: () -> Home
                 },
                 color = Scheme.primary,
                 icon = R.drawable.ic_search,
-                iconColor = Scheme.onPrimary
+                iconColor = Scheme.onPrimary,
             )
         }
 
