@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Fashions</string>
+    <string name="my_life_my_style" translatable="false">My Life My Style</string>
+    <string name="on_boarding_title_one" translatable="false">20% Discount New Arrival Product</string>
+    <string name="on_boarding_title_two" translatable="false">Take Advantage Of The Offer Shopping</string>
+    <string name="on_boarding_title_three" translatable="false">All Types Offers Within Your Reach</string>
+    <string name="on_boarding_subtitle" translatable="false">Publish up your selfies to make yourself more beautiful with this app.</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="sign_up" translatable="false">Sign Up</string>
+    <string name="welcome" translatable="false">Welcome!</string>
+    <string name="please_login" translatable="false">Please login to continue</string>
+    <string name="create_an_new_account" translatable="false">Create an new account</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="enter_email" translatable="false">.......@example.com</string>
+    <string name="enter_password" translatable="false">#@\$#</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="continue_with" translatable="false">Continue with</string>
+    <string name="facebook" translatable="false">Facebook</string>
+    <string name="google" translatable="false">Google</string>
+    <string name="or" translatable="false">Or</string>
+    <string name="confirm_password" translatable="false">Confirm Password</string>
+    <string name="by_creating_an_account" translatable="false">By creating an account you agree with our terms and conditions</string>
+    <string name="user_name" translatable="false">User Name</string>
+    <string name="password_not_same" translatable="false">Password not same</string>
+    <string name="successfully" translatable="false">Successfully!</string>
+    <string name="successfully_registered" translatable="false">you have successfully registered in our app and start working on it.</string>
+    <string name="start_shopping" translatable="false">Start Shopping</string>
+    <string name="please_agree" translatable="false">Please agree to the terms and conditions</string>
+    <string name="home" translatable="false">Home</string>
+    <string name="cart" translatable="false">Cart</string>
+    <string name="my_cart" translatable="false">My Cart</string>
+    <string name="notification" translatable="false">Notification</string>
+    <string name="profile" translatable="false">Profile</string>
+    <string name="new_arrivals" translatable="false">New Arrivals</string>
+    <string name="view_all" translatable="false">View All</string>
+    <string name="popular" translatable="false">Popular</string>
+    <string name="try_again" translatable="false">Try again</string>
+    <string name="reviews" translatable="false">Reviews</string>
+    <string name="description" translatable="false">Description</string>
+    <string name="size" translatable="false">Size</string>
+    <string name="add_to_cart" translatable="false">Add to cart</string>
+    <string name="remove_from_cart" translatable="false">Remove from cart</string>
+    <string name="please_select_size" translatable="false">Please select size</string>
+    <string name="please_select_color" translatable="false">Please select color</string>
+    <string name="product_not_available" translatable="false">Product is not available</string>
+    <string name="no_item_in_cart" translatable="false">No item in cart</string>
+    <string name="total_price" translatable="false">Total (%1$d item):</string>
+    <string name="proceed_to_checkout" translatable="false">Proceed to checkout</string>
+    <string name="choose_delivery_location" translatable="false">Choose Delivery Location</string>
+    <string name="delivery_address" translatable="false">Delivery Address</string>
+    <string name="payment" translatable="false">Payment</string>
+    <string name="credit_card" translatable="false">Credit Card</string>
+    <string name="paypal" translatable="false">Paypal</string>
+    <string name="visa" translatable="false">Visa</string>
+    <string name="google_pay" translatable="false">Google Pay</string>
+    <string name="search_" translatable="false">Search</string>
+    <string name="all" translatable="false">All</string>
+    <string name="price_range" translatable="false">Price Range</string>
+    <string name="categories" translatable="false" >Categories</string>
+    <string name="apply" translatable="false">Apply</string>
+
+    <string name="personal_details" translatable="false">Personal Details</string>
+    <string name="my_orders" translatable="false">My Orders</string>
+    <string name="my_favourites" translatable="false">My Favourites</string>
+    <string name="settings" translatable="false">Settings</string>
+    <string name="faqs" translatable="false">FAQS</string>
+    <string name="privacy_policy" translatable="false">Privacy Policy</string>
+    <string name="about_us" translatable="false">About Us</string>
+    <string name="logout" translatable="false">Log Out</string>
+    <string name="cancel" translatable="false">Cancel</string>
+    <string name="are_you_sure" translatable="false">Are you sure you want to log out?</string>
+    <string name="google_pay_not_available" translatable="false">
+        Google Pay is not available on your device
+    </string>
+    <string name="upload_image" translatable="false">Upload Image</string>
+    <string name="update" translatable="false">Update</string>
+
+</resources>
